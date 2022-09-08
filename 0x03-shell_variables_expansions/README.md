@@ -4,3 +4,4 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 a script that counts the number of directories in the PATH
 script that lists environment variables
 script that creates a new local variable
+a script that creates a new global variable
